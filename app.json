@@ -1,0 +1,38 @@
+{
+  "id": "0ed0c194-6830-4f58-8428-13dec0663f63",
+  "name": "PR",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "runtime": "16.0",
+  "target": "Cloud",
+  "application": "27.5.46862.46929",
+  "platform": "28.0.54688.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NOIMPLICITWITH"
+  ],
+  "dependencies": [
+    {
+      "id": "12341af3-3ce1-40cd-825b-05c8ad7d7da7",
+      "name": "OmniFY Purchase Requisition",
+      "version": "25.0.0.10",
+      "publisher": "Omni Logic Solutions"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50250
+    }
+  ],
+  "build": {
+    "by": "AL Language Extension,17.0.2273547",
+    "timestamp": "2026-04-16T12:17:16.3831796+00:00",
+    "compilerVersion": "17.0.34.45391"
+  }
+}

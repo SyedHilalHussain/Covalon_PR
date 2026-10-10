@@ -1,0 +1,9 @@
+.alpackages/
+.snapshots/
+.vscode/
+*.app
+*.flf
+*.bak
+rec/
+.DS_Store
+Thumbs.db
